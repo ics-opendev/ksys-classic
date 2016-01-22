@@ -1,0 +1,1 @@
+{ "options" : { "create" : "castlady" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.castlady", "name" : "_id_" } ] }

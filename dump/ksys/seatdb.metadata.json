@@ -1,0 +1,1 @@
+{ "options" : { "create" : "seatdb" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.seatdb", "name" : "_id_" } ] }

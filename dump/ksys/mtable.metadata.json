@@ -1,0 +1,1 @@
+{ "options" : { "create" : "mtable" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.mtable", "name" : "_id_" } ] }

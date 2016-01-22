@@ -1,0 +1,1 @@
+{ "options" : { "create" : "mcompany" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.mcompany", "name" : "_id_" } ] }

@@ -1,0 +1,1 @@
+{ "options" : { "create" : "mitem" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.mitem", "name" : "_id_" } ] }

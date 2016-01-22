@@ -1,0 +1,1 @@
+{ "options" : { "create" : "detailrecord" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.detailrecord", "name" : "_id_" } ] }

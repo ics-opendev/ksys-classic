@@ -1,0 +1,1 @@
+{ "options" : { "create" : "muser" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.muser", "name" : "_id_" } ] }

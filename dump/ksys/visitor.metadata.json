@@ -1,0 +1,1 @@
+{ "options" : { "create" : "visitor" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.visitor", "name" : "_id_" } ] }

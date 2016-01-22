@@ -1,0 +1,4 @@
+config/local.js
+data/
+mongod
+.tmp/

@@ -1,0 +1,1 @@
+{ "options" : { "create" : "mcastlady" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.mcastlady", "name" : "_id_" }, { "v" : 1, "key" : { "castId" : 1 }, "unique" : true, "ns" : "ksys.mcastlady", "name" : "castId_1", "sparse" : true } ] }

@@ -1,0 +1,1 @@
+{ "options" : { "create" : "productdb" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.productdb", "name" : "_id_" } ] }

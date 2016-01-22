@@ -1,0 +1,1 @@
+{ "options" : { "create" : "demopage" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.demopage", "name" : "_id_" } ] }

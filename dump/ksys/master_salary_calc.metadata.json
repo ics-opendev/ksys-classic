@@ -1,0 +1,1 @@
+{ "options" : { "create" : "master_salary_calc" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.master_salary_calc", "name" : "_id_" } ] }

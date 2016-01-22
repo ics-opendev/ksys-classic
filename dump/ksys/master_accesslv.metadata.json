@@ -1,0 +1,1 @@
+{ "options" : { "create" : "master_accesslv" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.master_accesslv", "name" : "_id_" } ] }

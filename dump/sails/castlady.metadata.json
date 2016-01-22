@@ -1,0 +1,1 @@
+{ "options" : { "create" : "castlady" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "sails.castlady", "name" : "_id_" }, { "v" : 1, "key" : { "id" : 1 }, "unique" : true, "ns" : "sails.castlady", "name" : "id_1", "sparse" : true } ] }

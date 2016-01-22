@@ -1,0 +1,1 @@
+{ "options" : { "create" : "deductiondb" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.deductiondb", "name" : "_id_" } ] }

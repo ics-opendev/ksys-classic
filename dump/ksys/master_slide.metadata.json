@@ -1,0 +1,1 @@
+{ "options" : { "create" : "master_slide" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ksys.master_slide", "name" : "_id_" } ] }
